@@ -1,6 +1,6 @@
 {
   "name": "devtools-launchpad",
-  "version": "0.0.113",
+  "version": "0.0.114",
   "license": "MPL-2.0",
   "description":
     "The Launchpad makes it easy to build a developer tool for Firefox, Chrome, and Node.",
@@ -35,7 +35,7 @@
     "autoprefixer": "^7.1.2",
     "babel-cli": "^6.7.5",
     "babel-core": "^6.25.0",
-    "babel-eslint": "^7.1.0",
+    "babel-eslint": "^8.2.1",
     "babel-loader": "^7.1.1",
     "babel-plugin-module-resolver": "^2.2.0",
     "babel-plugin-transform-async-to-generator": "^6.16.0",
